@@ -2,7 +2,7 @@
 
 https://FORGE.hackclub.com/projects/1713
 
-![pcb_photo](images\pcb_photo.png)
+![pcb_photo.png](images\pcb_photo.png)
 
 This is a Ruler made as PCB in KiCAD and InkScape(for .svg editing).
 
@@ -12,7 +12,7 @@ This is a Ruler made as PCB in KiCAD and InkScape(for .svg editing).
 - Cost around 10 US Dollars :)
 
 Here is JLCPCB cart:
-![jlcPcb_cart](images\jlcPcb_cart.png)
+![jlcPcb_cart.png](images\jlcPcb_cart.png)
 
 Rendered Image:
 ![Rendered_photo.png](images/Rendered_photo.png)
