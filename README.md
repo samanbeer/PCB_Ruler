@@ -23,5 +23,6 @@ Rendered Image:
 
 | What                             | PRICE    |
 | -------------------------------- | -------- |
-| PCB (Ruler) + shipping + Customs | 13.6 USD |
+| PCB (Ruler) + shipping + Customs | 17.15 USD |
+![shipping.png](images/shipping.png)
 
