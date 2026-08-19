@@ -6,6 +6,10 @@ Why:
 
 ![pcb_photo.png](images/pcb_photo.png)
 
+Schematic is randomly connected so it looks good on PCB (not supposed to work :D):
+
+![shematic.png](images/shematic.png)
+
 This is a Ruler made as PCB in KiCAD and InkScape(for .svg editing).
 
 - Every design file is in /images folder. 
@@ -26,5 +30,7 @@ Rendered Image:
 | What                             | PRICE    |
 | -------------------------------- | -------- |
 | PCB (Ruler) + shipping + Customs | 17.15 USD |
-![shipping.png](images/shipping.png)
 
+*note: I dont need components since I will not solder them on the ruler. The components footprints are only for <u>design</u>*
+
+![shipping.png](images/shipping.png)
