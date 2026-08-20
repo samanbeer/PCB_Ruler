@@ -31,6 +31,6 @@ Rendered Image:
 | -------------------------------- | -------- |
 | PCB (Ruler) + shipping + Customs | 17.15 USD |
 
-*note: I dont need components since I will not solder them on the ruler. The components footprints are only for <u>design</u>*
+*note: I dont need components since I will not solder them on the ruler. The components footprints are for <u>design</u>*
 
 ![shipping.png](images/shipping.png)

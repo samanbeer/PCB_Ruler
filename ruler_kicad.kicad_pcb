@@ -43260,7 +43260,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "0612_1632"
+	(gr_text "0612_1632M"
 		(at 94.4 140.1718 0)
 		(layer "F.SilkS")
 		(uuid "3ab834b7-4aad-4b54-9116-2b159a24fef4")
@@ -43272,7 +43272,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "0805_2012"
+	(gr_text "0805_2012M\n"
 		(at 94.4 144.5968 0)
 		(layer "F.SilkS")
 		(uuid "4f1c8db9-4b3b-45a9-89c8-936afb2f088c")
@@ -43284,7 +43284,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "0815_2038"
+	(gr_text "0815_2038M"
 		(at 118 132.395 0)
 		(layer "F.SilkS")
 		(uuid "6688a3e5-65d6-4cc6-9ab7-8c655a09c13c")
