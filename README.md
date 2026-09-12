@@ -34,3 +34,21 @@ Rendered Image:
 *note: I dont need components since I will not solder them on the ruler. The components footprints are for <u>design</u>*
 
 ![shipping.png](images/shipping.png)
+
+
+
+## Builded  project:
+
+<img src="D:\!Documents\KiCad\ruler\images\build_photos\full.jpg" alt="full" style="zoom:100%;" />
+
+Detailed photos:
+
+![detailed1](D:\!Documents\KiCad\ruler\images\build_photos\detailed1.jpg)
+
+![detailed2](D:\!Documents\KiCad\ruler\images\build_photos\detailed2.jpg)
+
+
+
+The precision is great, at the end it has offest just by 0.5mm which is great
+
+![precision](D:\!Documents\KiCad\ruler\images\build_photos\precision.jpg)
